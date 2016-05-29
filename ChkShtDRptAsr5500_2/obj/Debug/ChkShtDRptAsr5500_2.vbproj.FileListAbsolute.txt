@@ -1,0 +1,10 @@
+C:\Users\Hiro\Documents\Visual Studio 2015\Projects\ChkShtDRptAsr5500_2\ChkShtDRptAsr5500_2\obj\Debug\ChkShtDRptAsr5500_2.vbproj.GenerateResource.Cache
+C:\Users\Hiro\Documents\Visual Studio 2015\Projects\ChkShtDRptAsr5500_2\ChkShtDRptAsr5500_2\bin\ChkShtDRptAsr5500.dll.config
+C:\Users\Hiro\Documents\Visual Studio 2015\Projects\ChkShtDRptAsr5500_2\ChkShtDRptAsr5500_2\bin\ChkShtDRptAsr5500.dll
+C:\Users\Hiro\Documents\Visual Studio 2015\Projects\ChkShtDRptAsr5500_2\ChkShtDRptAsr5500_2\bin\ChkShtDRptAsr5500.pdb
+C:\Users\Hiro\Documents\Visual Studio 2015\Projects\ChkShtDRptAsr5500_2\ChkShtDRptAsr5500_2\bin\ChkShtDRptAsr5500.xml
+C:\Users\Hiro\Documents\Visual Studio 2015\Projects\ChkShtDRptAsr5500_2\ChkShtDRptAsr5500_2\obj\Debug\ChkShtDRptAsr5500.Resources.resources
+C:\Users\Hiro\Documents\Visual Studio 2015\Projects\ChkShtDRptAsr5500_2\ChkShtDRptAsr5500_2\obj\Debug\ChkShtDRptAsr5500.dll
+C:\Users\Hiro\Documents\Visual Studio 2015\Projects\ChkShtDRptAsr5500_2\ChkShtDRptAsr5500_2\obj\Debug\ChkShtDRptAsr5500.xml
+C:\Users\Hiro\Documents\Visual Studio 2015\Projects\ChkShtDRptAsr5500_2\ChkShtDRptAsr5500_2\obj\Debug\ChkShtDRptAsr5500.pdb
+C:\Users\Hiro\Documents\Visual Studio 2015\Projects\ChkShtDRptAsr5500_2\ChkShtDRptAsr5500_2\obj\Debug\ChkShtDRptAsr5500_2.vbprojResolveAssemblyReference.cache
